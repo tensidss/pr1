@@ -1,0 +1,186 @@
+body{
+    font-family: sans-serif;
+    margin: 0;
+    background-color: rgb(21, 21, 21);
+}
+
+
+.cont {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+
+
+header img {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.Scrolls {
+    font-size: 25px;
+    color: rgb(156, 104, 104);
+    font-family: "matura mt script capitals";
+    background-color: rgb(0, 0, 0);
+    border-radius: 50px;
+}
+
+.Navigation {
+    font-size: 20px;
+    list-style-type: none;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+.Navigation a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: wheat;
+    
+}
+
+.Navigation1 h1 {
+    color: aquamarine;
+    text-align: left;
+}
+
+.Navigation2 a {
+    color: rgb(127, 203, 203);
+    text-decoration: none;
+}
+
+.Navigation2 {
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(210, 210, 210);
+    font-family: "arial black";
+}
+
+.HI {
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+
+.Game {
+    color: rgb(204, 204, 204);
+    text-decoration: underline crimson;
+}
+
+.ForGame {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+.Bethesda {
+    color: rgb(204, 204, 204);
+    text-decoration: underline crimson;
+}
+
+.ForBethesda {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+.Todd {
+    color: rgb(204, 204, 204);
+    text-decoration: underline crimson;
+}
+
+.ForTodd {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+.Skyrim {
+    color: rgb(204, 204, 204);
+    text-decoration: underline crimson;
+}
+
+.ForSkyrim {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+}
+
+.Facts {
+    color: rgb(204, 204, 204);
+    text-decoration: underline crimson;
+}
+
+.ForFacts {
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.Language {
+    color: lightblue;
+}
+
+.World {
+    color: red;
+}
+
+.Gamedev {
+    color: greenyellow;
+}
+
+.Person {
+    color: orange;
+}
+
+.Barenzia {
+    color: lightcoral;
+}
+
+.Country {
+    color: deepskyblue;
+}
+
+main h2 {
+    font-family: "arial black";
+}
+
+main p {
+    color: antiquewhite;
+    font-size: 18px;
+}
+
+.Todd1 {
+    color: aquamarine;
+    text-decoration: none;
+}
+
+
+.pod1 , .pod2 , .pod3  , .pod5{
+    border: 3px whitesmoke solid;
+    margin-top: 20px;
+    border-radius: 25px;
+    width: 350px;
+    
+}
+
+.pod1 , .pod2 , .pod3  , .pod5 p , h2{
+    text-align: center;
+    
+}
+
+main img{
+    width: 330px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.pod4{
+    border: 3px whitesmoke solid;
+    margin-top: 20px;
+    border-radius: 25px;
+}
